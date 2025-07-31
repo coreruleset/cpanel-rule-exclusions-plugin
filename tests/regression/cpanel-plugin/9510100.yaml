@@ -2,7 +2,7 @@
 meta:
   author: "Felipe Zipitria, azurit"
   description: "cPanel Rule Exclusions Plugin"
-  rule_id: 9510100
+rule_id: 9510100
 tests:
   - test_id: 1
     desc: Cpanel plugin
